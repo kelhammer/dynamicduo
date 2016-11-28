@@ -2,6 +2,12 @@
 % Kelsey Hammer & Ellen Cline
 % 04 December, 2016
 
+# Introduction and Overview
+
+<aside class="notes">
+Here are some notes about data viz generally
+</aside>
+
 # History
 
 ```
