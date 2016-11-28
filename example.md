@@ -1,6 +1,6 @@
-% An example reveal.js slide presentation 
-% John D. Martin III
-% 19 July, 2016
+% Data Visualization
+% Kelsey Hammer & Ellen Cline
+% 04 December, 2016
 
 # Markdown in, HTML5
 
