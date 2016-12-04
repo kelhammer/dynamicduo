@@ -36,6 +36,8 @@ Is data visualization new? How has it changed over the years?
 
 <img src="dv8.jpg" height="500" width="500">
 <aside class="notes">
+Here we see an example of data visualization from the 1800s. This is John Snow's map of cholera cases in London, all of which he was able to 
+trace back to one infected water pump in the neighborhood.
 This is not a new field, although the tools used within in it and the applications it has for scholars, libraries, and ordinary citizens have changed over the years. 
 Early map-makers and visual artists, even cave painters, were using visuals to convey valuable information to others. 
 In the 17th century, scholars like Galileo, measured time, distance, and space to map the stars and solve complex problems.  
