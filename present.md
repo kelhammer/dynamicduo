@@ -34,6 +34,7 @@ it is more visual, is interactive, and generally does a better job of informing 
 # History & Evolution
 Is data visualization new? How has it changed over the years?
 
+<img src="dv8.jpg" height="500" width="500">
 <aside class="notes">
 This is not a new field, although the tools used within in it and the applications it has for scholars, libraries, and ordinary citizens have changed over the years. 
 Early map-makers and visual artists, even cave painters, were using visuals to convey valuable information to others. 
