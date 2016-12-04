@@ -52,23 +52,26 @@ Now that data visualization is better understood, we may look at some tools/exam
 # Tools
 
 Where do data scientists start?
-Find/Generate data -> Analyze -> Visualize
+Find/Generate Data -> Analyze -> Visualize -> Curate/Store
+Helpful Tools:
+
 <aside class="notes">
 Here are some tools.
+For the purposes of this presentation, we have chosen to focus mostly on examples centered around data visualization and geography. 
+We'll talk about tools you can use to make your own graphs or maps or what-have-you, but please be aware that this is a field that has many
+hundreds of applications not at all limited to geography. 
 <\aside>
 
 # Good Examples
-
-What does a good data visualization look like?
+<img src="dv5.png" height="400" width="550">
 <aside class="notes">
-Here are some good examples
+What does a good data visualization look like?
 </aside>
 
 # Bad Examples
-
-What does a bad data visualization look like?
+<img src="dv6.png" height="400" width="550">
 <aside class="notes">
-Here are some bad examples.
+What does a bad data visualization look like?
 </aside>
 
 # The Future?
@@ -78,8 +81,13 @@ Where are we headed?
 What is the future of data viz?
 </aside>
 
-# Data Viz at UNC
+# Data Viz at UNC!
 
 <aside class="notes">
-Here are things we have at UNC
+Interested in Data Viz now? Want to know about the cool stuff we have here at UNC?
+UNC-Chapel Hill has many resources available to help with Data Visualization. Davis Library houses the Research Hub. 
+The Research Hub offers help with research presentation and GIS, and is home to several geography, GIS, and data visualization librarians.
+The Undergraduate Library is home to the Design Lab which offers design classes, consultation, and equipment -- some specifically for data visualization. 
+UNC-Chapel Hill also have access to Lynda.Com, a website with thousands of tutorials for technology, design, and other practical skills - including data visualization 
+and software like InDesign, Photoshop, and Illustrator which you might use to build your data visualizations. 
 </aside>
