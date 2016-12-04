@@ -63,7 +63,7 @@ hundreds of applications not at all limited to geography.
 <\aside>
 
 # Good Examples
-<img src="dv5.png" height="400" width="550">
+<img src="dv5.jpg" height="400" width="550">
 <aside class="notes">
 What does a good data visualization look like?
 </aside>
@@ -75,8 +75,8 @@ What does a bad data visualization look like?
 </aside>
 
 # The Future?
-
 Where are we headed?
+<img src="dv10.png" height="550" width="550">
 <aside class="notes">
 What is the future of data viz?
 </aside>
