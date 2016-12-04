@@ -2,12 +2,8 @@
 % Kelsey Hammer & Ellen Cline
 % 05 December, 2016
 
-<aside class="notes">
-Introductions! 
-</aside>
-
 # What is data visualization?
-
+<section id="my-slide" class="slide level1" data-audio-src="a6.ogg"></section>
 <img src="dv1.jpg"  height="100" width="200">
 <aside class="notes">
 Data visualization is all about conveying engaging and vital data through concise and creative design practices. 
