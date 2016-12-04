@@ -31,16 +31,19 @@ On the right, we have a similar dataset. While it may not show all the data list
 it is more visual, is interactive, and generally does a better job of informing the audience.
 </aside>
 
-# History
-Is data visualization new?
-<aside class="notes">
-Here is some text about our title slide and presentation.
-</aside>
+# History & Evolution
+Is data visualization new? How has it changed over the years?
 
-# Evolution
- How has it changed?
 <aside class="notes">
-Here is some text about Evolution
+This is not a new field, although the tools used within in it and the applications it has for scholars, libraries, and ordinary citizens have changed over the years. 
+Early map-makers and visual artists, even cave painters, were using visuals to convey valuable information to others. 
+In the 17th century, scholars like Galileo, measured time, distance, and space to map the stars and solve complex problems.  
+The 19th century marked the beginning of modern graphics, with creators experimenting with new styles like bar and pie charts, line graphs, and atlases. 
+The 19th century was considered a Golden Age of data visualization with innovative and successful styles being created and used by data visualizers from many disciplines. 
+The 20th century began as a time of uniformity for data visualization, rather than a time of risk taking and innovation. 
+However, today data visualization is booming again with an onslaught of design and technology innovations encouraging new trends and techniques in the field. 
+Whereas data in meetings and ideas in classrooms may have once been perceived as boring or tedious, colorful pictures and maps spark interest in this type of information and help further comprehension. 
+Now that data visualization is better understood, we may look at some tools/examples of the process. 
 </aside>
 
 # Tools
