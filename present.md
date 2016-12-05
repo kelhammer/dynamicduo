@@ -15,7 +15,7 @@ For example, here we have a colorful, interactive representation of the daily sc
 </aside>
 
 # Why do we care?
-<section id="my-slide" class="slide level1" data-audio-src="audio-files/caring.ogg"></section>
+<section id="my-slide2" class="slide level1" data-audio-src="audio-files/caring.ogg"></section>
 <img src="excel.PNG" height=100% width=50% align="left">
 <img src="dv7.jpg" height=100% width=50% align="right">
 <aside class="notes">
@@ -29,7 +29,7 @@ it is more visual, is interactive, and generally does a better job of informing 
 </aside>
 
 # History & Evolution
-<section id="my-slide" class="slide level1" data-audio-src="audio-files/evo.ogg"></section>
+<section id="my-slide3" class="slide level1" data-audio-src="audio-files/evo.ogg"></section>
 <img src="dv8.jpg" height="500" width="500" align="center">
 <aside class="notes">
 Here we see an example of data visualization from the 1800s. This is John Snow's map of cholera cases in London, all of which he was able to 
@@ -46,7 +46,7 @@ Now that data visualization is better understood, we may look at some tools/exam
 </aside>
 
 # Tools
-<section id="my-slide" class="slide level1" data-audio-src="audio-files/tools.ogg"></section>
+<section id="my-slide4" class="slide level1" data-audio-src="audio-files/tools.ogg"></section>
 Where do data scientists start?
 <section id="fragments">
 <p class="fragment"> Find/Generate Data -> Analyze -> Visualize -> Curate/Store </p>
@@ -61,7 +61,7 @@ Some data visualization softwares we recommend are: arcGIS, Leaflet, Tableau.  T
 </aside>
 
 # Good Examples
-<section id="my-slide" class="slide level1" data-audio-src="audio-files/good.ogg"></section>
+<section id="my-slide5" class="slide level1" data-audio-src="audio-files/good.ogg"></section>
 <img src="dv5.jpg" height="400" width="550">
 <aside class="notes">
 Here are some examples of our favorite geographic data visualizations that
@@ -71,14 +71,14 @@ The state of Virginia is pulled out on the side to emphasize stats from Old Domi
 </aside>
 
 # Bad Examples
-<section id="my-slide" class="slide level1" data-audio-src="audio-files/bad.ogg"></section>
+<section id="my-slide6" class="slide level1" data-audio-src="audio-files/bad.ogg"></section>
 <img src="dv6.png" height="400" width="550">
 <aside class="notes">
 For our “bad” example, we have selected the following file. Kelsey and I are not experts, but we did find a few problems with this visualization. Sure, it’s colorful and fun, but the viewer isn’t too sure of the information being conveyed here. Without a title, a little research was required to discover that this is a map of commonly traveled air routes around the world. With a bit of guesswork and geographical knowledge, certain airports and hubs can be identified, but the addition of a legend that details names, places, or size would still be more helpful. The use of a rainbow color scheme makes for general aesthetic beauty, but since the colors bleed into one another it’s not clear whether or not specific colors stand for airports in specific continents. 
 </aside>
 
 # The Future?
-<section id="my-slide" class="slide level1" data-audio-src="audio-files/future.ogg"></section>
+<section id="my-slide7" class="slide level1" data-audio-src="audio-files/future.ogg"></section>
 <img src="dv10.png" height="550" width="550">
 <aside class="notes">
 There are many different tools one can use to create data visualizations because there are so many different types of data visualizations! In addition, advances in technology are allowing new and innovative techniques. 
@@ -87,7 +87,7 @@ Some data visualization softwares we recommend are: arcGIS, Leaflet, Tableau  Th
 </aside>
 
 # Data Viz at UNC!
-<section id="my-slide" class="slide level1" data-audio-src="audio-files/unc resource.ogg"></section>
+<section id="my-slide8" class="slide level1" data-audio-src="audio-files/unc resource.ogg"></section>
 <img src="images/hub.png"  height=100% width=100%>
 <aside class="notes">
 Interested in Data Viz now? Want to know about the cool stuff we have here at UNC?
