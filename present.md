@@ -3,9 +3,10 @@
 % 05 December, 2016
 
 # What is data visualization?
-<section id="my-slide" class="slide level1" data-audio-src="a6.ogg"></section>
-<img src="dv1.jpg"  height="100" width="200">
+<section id="my-slide" class="slide level1" data-audio-src="audio-files/overview.ogg"></section>
+<img src="dv1.jpg"  height=100% width=100%>
 <aside class="notes">
+So what is data visualization?
 Data visualization is all about conveying engaging and vital data through concise and creative design practices. 
 It combines the disciplines of statistics, graphics and graphical design, and computer science.
 Data visualization can take many forms through many types of technologies, but good data visualization is about telling the best story, 
@@ -14,9 +15,9 @@ For example, here we have a colorful, interactive representation of the daily sc
 </aside>
 
 # Why do we care?
-
-<img src="excel.PNG" height="100" width="200" align="left">
-<img src="dv7.jpg" height="100" width="200" align="right">
+<section id="my-slide" class="slide level1" data-audio-src="audio-files/caring.ogg"></section>
+<img src="excel.PNG" height=100% width=50% align="left">
+<img src="dv7.jpg" height=100% width=50% align="right">
 <aside class="notes">
 All presentations, be they scholarly or not, seek to convey some form of information to the audience. 
 A good presenter can hold a listener's attention with inflections in their voice, shared anecdotes, and a well formatted speech or slides.
@@ -29,7 +30,7 @@ it is more visual, is interactive, and generally does a better job of informing 
 
 # History & Evolution
 Is data visualization new? How has it changed over the years?
-
+<section id="my-slide" class="slide level1" data-audio-src="audio-files/evo.ogg"></section>
 <img src="dv8.jpg" height="500" width="500">
 <aside class="notes">
 Here we see an example of data visualization from the 1800s. This is John Snow's map of cholera cases in London, all of which he was able to 
@@ -46,10 +47,10 @@ Now that data visualization is better understood, we may look at some tools/exam
 </aside>
 
 # Tools
-
+<section id="my-slide" class="slide level1" data-audio-src="audio-files/tools.ogg"></section>
 Where do data scientists start?
-Find/Generate Data -> Analyze -> Visualize -> Curate/Store
-Helpful Tools:
+<p> Find/Generate Data -> Analyze -> Visualize -> Curate/Store </p>
+<p> Helpful Tools: </p>
 
 <aside class="notes">
 Here are some tools.
@@ -78,7 +79,7 @@ What is the future of data viz?
 </aside>
 
 # Data Viz at UNC!
-
+<section id="my-slide" class="slide level1" data-audio-src="audio-files/unc resource.ogg"></section>
 <aside class="notes">
 Interested in Data Viz now? Want to know about the cool stuff we have here at UNC?
 UNC-Chapel Hill has many resources available to help with Data Visualization. Davis Library houses the Research Hub. 
