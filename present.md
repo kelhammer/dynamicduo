@@ -107,5 +107,12 @@ and software like InDesign, Photoshop, and Illustrator which you might use to bu
 5
 6
 7
+<<<<<<< HEAD
 8 Internet Map via https://tma-2015.cba.upc.edu/images/PHD/Internet_Research_with_big_internet_data.pdf
+=======
+8 2010 US Census Data
+9 
+=======
+8
+>>>>>>> 67307da40844f13e16313c97edde63ce557caee7
 9 Research Hub via http://blogs.lib.unc.edu/news/index.php/2014/08/welcome-to-the-research-hub-and-makerspace/
