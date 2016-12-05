@@ -91,6 +91,7 @@ Some data visualization softwares we recommend are: arcGIS, Leaflet, Tableau  Th
 # Data Viz at UNC!
 
 <section id="my-slide" class="slide level1" data-audio-src="audio-files/unc resource.ogg"></section>
+<img src="images/hub.png"  height=100% width=100%>
 <aside class="notes">
 Interested in Data Viz now? Want to know about the cool stuff we have here at UNC?
 UNC-Chapel Hill has many resources available to help with Data Visualization. Davis Library houses the Research Hub. 
