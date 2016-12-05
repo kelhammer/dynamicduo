@@ -29,7 +29,7 @@ it is more visual, is interactive, and generally does a better job of informing 
 </aside>
 
 # History & Evolution
-Is data visualization new? How has it changed over the years?
+Is data visualization new?
 <section id="my-slide" class="slide level1" data-audio-src="audio-files/evo.ogg"></section>
 <img src="dv8.jpg" height="500" width="500">
 <aside class="notes">
@@ -51,34 +51,45 @@ Now that data visualization is better understood, we may look at some tools/exam
 Where do data scientists start?
 <p> Find/Generate Data -> Analyze -> Visualize -> Curate/Store </p>
 <p> Helpful Tools: </p>
-
+arcGIS Leaflet Tableau
 <aside class="notes">
-Here are some tools.
-For the purposes of this presentation, we have chosen to focus mostly on examples centered around data visualization and geography. 
-We'll talk about tools you can use to make your own graphs or maps or what-have-you, but please be aware that this is a field that has many
-hundreds of applications not at all limited to geography. 
-<\aside>
+There are many different tools one can use to create data visualizations because
+there are so many different types of data visualizations! In addition, advances in technology are allowing new and innovative techniques. 
+Because of time constraints, in this presentation we have chosen to focus mostly on tools centered around data visualization and geography.
+Some data visualization softwares we recommend are: arcGIS, Leaflet, Tableau.  These are all great tools and are available through UNC libraries
+</aside>
 
 # Good Examples
+<section id="my-slide" class="slide level1" data-audio-src="audio-files/good.ogg"></section>
 <img src="dv5.jpg" height="400" width="550">
 <aside class="notes">
-What does a good data visualization look like?
+Here are some examples of our favorite geographic data visualizations that
+showcase strong design principles and accurate information portrayal. There’s no such thing as a perfect graph or map, because all observers are different. Not all data visualizations effectively convey information with good design practices. 
+For our so-called “good example,” we have chosen a visualization of life expectancy in the US, gathered by the US Census and broken down by gender and county. This has a clear title and smaller headers for specific graphs, as well as emphasized numerical values for easy visibility. Differences in color gradient correspond with higher or lower life expectancy, and although counties and states are not labeled, an untrained eye may quickly perceive patterns and similarities and differences clustered around certain geographic points of interest. 
+The state of Virginia is pulled out on the side to emphasize stats from Old Dominion, but is visualized in the exact same manner as the rest of the continental US. 
 </aside>
 
 # Bad Examples
+<section id="my-slide" class="slide level1" data-audio-src="audio-files/bad.ogg"></section>
 <img src="dv6.png" height="400" width="550">
 <aside class="notes">
-What does a bad data visualization look like?
+For our “bad” example, we have selected the following file. Kelsey and I are not experts, but we did find a few problems with this visualization. Sure, it’s colorful and fun, but the viewer isn’t too sure of the information being conveyed here. Without a title, a little research was required to discover that this is a map of commonly traveled air routes around the world. With a bit of guesswork and geographical knowledge, certain airports and hubs can be identified, but the addition of a legend that details names, places, or size would still be more helpful. The use of a rainbow color scheme makes for general aesthetic beauty, but since the colors bleed into one another it’s not clear whether or not specific colors stand for airports in specific continents. 
 </aside>
 
 # The Future?
 Where are we headed?
+<section id="my-slide" class="slide level1" data-audio-src="audio-files/future.ogg"></section>
 <img src="dv10.png" height="550" width="550">
 <aside class="notes">
-What is the future of data viz?
+There are many different tools one can use to create data visualizations because there are so many different types of data visualizations! In addition, advances in technology are allowing new and innovative techniques. 
+
+Because of time constraints, in this presentation we have chosen to focus mostly on tools centered around data visualization and geography.
+
+Some data visualization softwares we recommend are: arcGIS, Leaflet, Tableau  These are all great tools and are available through UNC libraries
 </aside>
 
 # Data Viz at UNC!
+
 <section id="my-slide" class="slide level1" data-audio-src="audio-files/unc resource.ogg"></section>
 <aside class="notes">
 Interested in Data Viz now? Want to know about the cool stuff we have here at UNC?
