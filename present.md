@@ -100,9 +100,9 @@ and software like InDesign, Photoshop, and Illustrator which you might use to bu
 
 # Works Cited
 <section id="my-slide9" class="slide level1"></section>
-1 2010 US Census Data via census.gov
-2 John Snow's Soho Map via https://www1.udel.edu/johnmack/frec682/cholera/
-3 Air Traffic Routes via Martin Grandjean
-4 Creative Routines via http://www.infowetrust.com/creative-routines/
-5 Internet Map via https://tma-2015.cba.upc.edu/images/PHD/Internet_Research_with_big_internet_data.pdf
-6 Research Hub via http://blogs.lib.unc.edu/news/index.php/2014/08/welcome-to-the-research-hub-and-makerspace/
+<p> 1 2010 US Census Data via census.gov </p>
+<p> 2 John Snow's Soho Map via https://www1.udel.edu/johnmack/frec682/cholera/ </p>
+<p> 3 Air Traffic Routes via Martin Grandjean </p>
+<p> 4 Creative Routines via http://www.infowetrust.com/creative-routines/ </p>
+<p> 5 Internet Map via https://tma-2015.cba.upc.edu/images/PHD/Internet_Research_with_big_internet_data.pdf </p>
+<p> 6 Research Hub via http://blogs.lib.unc.edu/news/index.php/2014/08/welcome-to-the-research-hub-and-makerspace/ </p>
