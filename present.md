@@ -29,9 +29,8 @@ it is more visual, is interactive, and generally does a better job of informing 
 </aside>
 
 # History & Evolution
-Is data visualization new?
 <section id="my-slide" class="slide level1" data-audio-src="audio-files/evo.ogg"></section>
-<img src="dv8.jpg" height="500" width="500">
+<img src="dv8.jpg" height="500" width="500" align="center">
 <aside class="notes">
 Here we see an example of data visualization from the 1800s. This is John Snow's map of cholera cases in London, all of which he was able to 
 trace back to one infected water pump in the neighborhood.
@@ -50,7 +49,7 @@ Now that data visualization is better understood, we may look at some tools/exam
 <section id="my-slide" class="slide level1" data-audio-src="audio-files/tools.ogg"></section>
 Where do data scientists start?
 <p> Find/Generate Data -> Analyze -> Visualize -> Curate/Store </p>
-<p> Helpful Tools: </p>
+<p> Some Helpful Tools: </p>
 arcGIS Leaflet Tableau
 <aside class="notes">
 There are many different tools one can use to create data visualizations because
@@ -77,19 +76,15 @@ For our “bad” example, we have selected the following file. Kelsey and I are
 </aside>
 
 # The Future?
-Where are we headed?
 <section id="my-slide" class="slide level1" data-audio-src="audio-files/future.ogg"></section>
 <img src="dv10.png" height="550" width="550">
 <aside class="notes">
 There are many different tools one can use to create data visualizations because there are so many different types of data visualizations! In addition, advances in technology are allowing new and innovative techniques. 
-
 Because of time constraints, in this presentation we have chosen to focus mostly on tools centered around data visualization and geography.
-
 Some data visualization softwares we recommend are: arcGIS, Leaflet, Tableau  These are all great tools and are available through UNC libraries
 </aside>
 
 # Data Viz at UNC!
-
 <section id="my-slide" class="slide level1" data-audio-src="audio-files/unc resource.ogg"></section>
 <img src="images/hub.png"  height=100% width=100%>
 <aside class="notes">
