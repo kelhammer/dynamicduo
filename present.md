@@ -48,15 +48,17 @@ Now that data visualization is better understood, we may look at some tools/exam
 # Tools
 <section id="my-slide" class="slide level1" data-audio-src="audio-files/tools.ogg"></section>
 Where do data scientists start?
-<p> Find/Generate Data -> Analyze -> Visualize -> Curate/Store </p>
-<p> Some Helpful Tools: </p>
-arcGIS Leaflet Tableau
+<section id="fragments">
+<p class="fragment"> Find/Generate Data -> Analyze -> Visualize -> Curate/Store </p>
+<p class="fragment"> Some Helpful Tools: </p>
+<p class="fragment">arcGIS Leaflet Tableau </p>
 <aside class="notes">
 There are many different tools one can use to create data visualizations because
 there are so many different types of data visualizations! In addition, advances in technology are allowing new and innovative techniques. 
 Because of time constraints, in this presentation we have chosen to focus mostly on tools centered around data visualization and geography.
 Some data visualization softwares we recommend are: arcGIS, Leaflet, Tableau.  These are all great tools and are available through UNC libraries
 </aside>
+</section>
 
 # Good Examples
 <section id="my-slide" class="slide level1" data-audio-src="audio-files/good.ogg"></section>
