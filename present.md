@@ -101,11 +101,11 @@ and software like InDesign, Photoshop, and Illustrator which you might use to bu
 # Works Cited
 <section id="my-slide9" class="slide level1"></section>
 1 Creative Routines via http://www.infowetrust.com/creative-routines/
-2 John Snow's Soho Map 
+2 John Snow's Soho Map via https://www1.udel.edu/johnmack/frec682/cholera/
 3 
 4
 5
 6
 7
 8
-9
+9 Research Hub via http://blogs.lib.unc.edu/news/index.php/2014/08/welcome-to-the-research-hub-and-makerspace/
