@@ -97,3 +97,15 @@ The Undergraduate Library is home to the Design Lab which offers design classes,
 UNC-Chapel Hill also have access to Lynda.Com, a website with thousands of tutorials for technology, design, and other practical skills - including data visualization 
 and software like InDesign, Photoshop, and Illustrator which you might use to build your data visualizations. 
 </aside>
+
+# Works Cited
+<section id="my-slide9" class="slide level1"></section>
+1 Creative Routines via http://www.infowetrust.com/creative-routines/
+2 John Snow's Soho Map 
+3 
+4
+5
+6
+7
+8
+9
